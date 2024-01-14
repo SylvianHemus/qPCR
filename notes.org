@@ -10,7 +10,12 @@ I use the HD44780 as a screen because I think it's a jellybean. I kinda want to 
 * TODO Checkout Sparkfun MicroView
 
 is ESP32 more of a jellybean (old faithful) contender
+* 
 * TODO how much of the HD44780 is a jellybean
 * Calibrating
 Might be good to add calibrate feature to microcontroller to make sure it follows table on page 11/18
 I should replicate this table
+* What authors need help with
+** Light path
+** Add a Pettier
+** Add samples prep instructions
