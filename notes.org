@@ -1,0 +1,16 @@
+* Some interesting notes
+** How my version might differ 
+I usually use openscad and not autodesk
+I don't like arduino IDE
+I like using PLA
+I like using modified ender 3
+I use a sanesmart not a 3d CNC mcss built into the printer
+I might prefer to use photolithography need to finish the paper
+I use the HD44780 as a screen because I think it's a jellybean. I kinda want to use an amber backlight for more comfy feel 
+* TODO Checkout Sparkfun MicroView
+
+is ESP32 more of a jellybean (old faithful) contender
+* TODO how much of the HD44780 is a jellybean
+* Calibrating
+Might be good to add calibrate feature to microcontroller to make sure it follows table on page 11/18
+I should replicate this table
